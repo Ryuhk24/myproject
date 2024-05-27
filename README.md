@@ -1,4 +1,4 @@
 # myproject
-Starting my life as a programmer
+Starting from scratch
 
 Practice practice practice!!!!!!
